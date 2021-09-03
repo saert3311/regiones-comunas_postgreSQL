@@ -1,2 +1,2 @@
-# regiones-comunas_postgreSQL
-Regiones, Provincias y Comunas de chile para ser importados en postgres actualizado 2021
+# Regiones, Provincias y Comunas Chile 2021 para PostgresSQL
+Comodamente importables usando pgAdmin todas las tablas tienen el prefijo app_ para evitar en lo posible conflictos con alguna que tenga el mismo nombre.
